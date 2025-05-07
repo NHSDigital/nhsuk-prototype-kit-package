@@ -68,3 +68,5 @@ Thumbs.db
 
 # Code coverage
 coverage
+
+package-lock.json
